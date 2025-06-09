@@ -8,6 +8,9 @@
 // https://github.com/Cursos-TI/desafio-cadastro-das-cartas-no-super-trunfo-LuannDias
 
 // Desafio: Nível Novato - Concluído (Luann - 09/06/2025)
+// Código reutilizado (copiado) do programa do Tema 1 - Cadastro das Cartas
+// Criada sessão que compara o atributo das cartas (neste caso, população) usando estrutura if-else.
+// A comparação decide qual cidade vence com base nesse atributo.
 
 
 int main() {

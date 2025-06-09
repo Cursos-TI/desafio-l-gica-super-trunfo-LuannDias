@@ -1,0 +1,45 @@
+Exemplo de como o programa foi testado
+
+Entrada de Dados:
+Carta 1:
+Estado: A
+Código: A01
+Nome da Cidade: Sampa (São Paulo – foi usado "Sampa" no teste, pois o programa não aceita nomes compostos, apenas nomes únicos)
+População: 12325000
+Área: 1521.11
+PIB: 699280000000.00
+Número de Pontos Turísticos: 50
+
+Carta 2:
+Estado: B
+Código: B02
+Nome da Cidade: Rio (Rio de Janeiro – foi usado "Rio" no teste, pois o programa não aceita nomes compostos, apenas nomes únicos)
+População: 6748000
+Área: 1200.25
+PIB: 300500000000.00
+Número de Pontos Turísticos: 30
+
+Sáida de Dados:
+Carta 1:
+Estado: A
+Código: A01
+Nome da Cidade: Sampa
+População: 12325000
+Área: 1521.11 km²
+PIB: 699279998976.00 bilhões de reais
+Número de Pontos Turísticos: 50
+Densidade Populacional: 8102.64 hab/km²
+PIB per Capita: 56736.71 reais
+Super Porder: 699292385280.00
+
+Carta 2:
+Estado: B
+Código: B02
+Nome da Cidade: Rio
+População: 6748000
+Área: 1200.25 km²
+PIB: 300499992576.00 bilhões de reais
+Número de Pontos Turísticos: 30
+Densidade Populacional: 5622.16 hab/km²
+PIB per Capita: 44531.71 reais
+Super Porder: 300506775552.00

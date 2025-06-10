@@ -1,3 +1,67 @@
+# Instruções para executar o programa
+
+Você pode executar o programa de duas formas:  
+1 - Pelo terminal, digitando o comando para executar o arquivo `logicaSuperTrunfo.exe`.  
+2 - Abrindo o código em um editor como o VSCode, compilando (buildando) e executando o programa diretamente.
+
+---
+
+# Exemplo de Teste
+
+## Entrada De Dados
+
+Foram usadas as seguintes informações para as cartas:
+
+**Carta 1:**  
+País: Brasil  
+População: 212600000  
+Área km²: 8510345.538  
+PIB: 4101000000000.00  
+Pontos turísticos: 50
+
+**Carta 2:**  
+País: Argentina  
+População: 47300000  
+Área km²: 2780000.00  
+PIB: 640000000000.00  
+Pontos turísticos: 30
+
+No menu de comparação, foram escolhidos os atributos **População** e **PIB**.
+
+---
+
+## Sáida de Dados
+
+```text
+Carta 1:
+Nome do país: Brasil
+População: 212600000
+Área: 8510346.00 km²
+PIB: 4100999872512.00
+Número de pontos turísticos: 50
+Densidade demográfica: 24.98 hab/km²
+
+Carta 2:
+Nome do país: Argentina
+População: 47300000
+Área: 2780000.00 km²
+PIB: 640000000000.00
+Número de pontos turísticos: 30
+Densidade demográfica: 17.01 hab/km²
+
+### Resultado das comparações ###
+Brasil versus Argentina
+Comparação entre populações
+Brasil = 212600000 e Argentina = 47300000 (Carta 1 vence!)
+Comparação entre PIBs
+Brasil = 4100999872512.00 e Argentina = 640000000000.00 (Carta 1 vence!)
+Valor da soma dos atributos escolhidos da Carta 1: 4101212471296.00
+Valor da soma dos atributos escolhidos da Carta 2: 640047316992.00
+A Carta 1 (Brasil) venceu a comparação da soma dos atributos!
+```
+
+
+# Conteúdo que já estava no arquivo README:
 # ⚠️ Importante!!!
 Você pode escolher qualquer um dos desafios para desenvolver. Sinta-se à vontade para começar pelo desafio que mais lhe interessa.
 
